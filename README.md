@@ -12,7 +12,7 @@ This project contains automated tests for the BBC iPlayer using Playwright with 
 
 - Clone the repository
 - Install dependencies:
-    npm install
+    npm install, 
     node.js
 - Install playwright:
     npm init playwright@latest
